@@ -10,7 +10,7 @@ This repository is created for learning, understanding and implementing the ides
     - g++ binary_files.cpp -o binary_files
 
 ### Run<br>
-    - .\binar_files
+    - .\binary_files
 
 ## Author
 **Anisha Maharjan**
